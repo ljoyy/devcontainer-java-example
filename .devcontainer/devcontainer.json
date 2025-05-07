@@ -34,6 +34,14 @@
 	
 	// Configure tool-specific properties.
 	"customizations": {
+		// Configure properties specific to JetBrains IDES.
+		"jetbrains": {
+			"settings": {
+				"com.intellij:app:DateTimeFormatter.prettyFormattingAllowed": false,
+				"com.intellij:app:EditorSettings.remove_trailing_blank_lines": true,
+				"com.intellij:app:HttpConfigurable.use_proxy_pac": true
+			}
+		},
 		// Configure properties specific to VS Code.
 		"vscode": {
 			// Add the IDs of extensions you want installed when the container is created.
