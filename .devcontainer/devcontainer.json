@@ -60,6 +60,7 @@
 				"vmware.vscode-boot-dev-pack",
 				"SonarSource.sonarlint-vscode",
 				"humao.rest-client",
+				"42Crunch.vscode-openapi",
 				"samuel-weinhardt.vscode-jsp-lang",
 				"ms-azuretools.vscode-docker"
 			]
